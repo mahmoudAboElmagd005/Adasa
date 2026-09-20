@@ -2,7 +2,7 @@
 
 # 📸 عدسة | Adasah
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Adasah;Photography+Blog;React+Web+Application](https://mahmoudaboelmagd005.github.io/Adasa/)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Adasah;Photography+Blog;React+Web+Application" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[**👉 Visit Live Demo Here**]()
+[**👉 Visit Live Demo Here**](https://mahmoudaboelmagd005.github.io/Adasa/)
 
 </div>
 
@@ -72,4 +72,6 @@ The application is fully data-driven, rendering all pages from a single JSON dat
 [**📦 View Source Code on GitHub**](https://github.com/your-username/adasah)
 
 </div>
+
+
 </div>
