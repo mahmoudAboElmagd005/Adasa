@@ -69,7 +69,7 @@ The application is fully data-driven, rendering all pages from a single JSON dat
 
 <div align="center">
 
-[**📦 View Source Code on GitHub**]([https://github.com/your-username/adasah](https://github.com/mahmoudAboElmagd005/Adasa.git))
+[**📦 View Source Code on GitHub**](https://github.com/mahmoudAboElmagd005/Adasa.git)
 
 </div>
 
